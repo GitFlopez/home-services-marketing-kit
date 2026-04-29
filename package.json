@@ -1,0 +1,10 @@
+{
+  "name": "home-services-marketing-kit",
+  "version": "1.0.0",
+  "description": "ClawHub skill: home-services-marketing-kit",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "marketing"
+  }
+}
